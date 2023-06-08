@@ -3,7 +3,7 @@ I created this repository for me to try out different machine learning methods u
 
 - ml5.js: https://ml5js.org/
 
-To test out the different programs just open the corresponding "index.html" file in the browser.
+To test out the different programs just open their corresponding "index.html" file in your browser.
 
 ## Animal Classification
 The image_classification folder contains a simple web app based on the pre-trained MobileNet image classification model, found in the ml5.js library. Here's a list of what the model has been trained to recognize: https://github.com/ml5js/ml5-library/blob/main/src/utils/IMAGENET_CLASSES.js. To test the app just wait for the MobileNet model to load, and drop an image (JPG) in the box. 
